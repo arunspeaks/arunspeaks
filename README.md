@@ -10,10 +10,8 @@ I'm an Agentic AI-focused Java Full Stack Developer skilled in building LLM-driv
 
 **B.Tech, Information Technology** — Vignan's Lara Institute of Technology and Science *(2021 – 2025)*
 CGPA: 8.2
-
 **Intermediate (MPC)** — Sri Chaitanya Jr Boys College *(2019 – 2021)*
 Marks: 985
-
 **SSC** — Bhashyam High School *(2018 – 2019)*
 GPA: 10
 
@@ -46,12 +44,10 @@ Engineered predictive analytics models using Python, Pandas, and NumPy, applying
 
 **[AI-Driven Financial Insights for Budgeting](https://github.com/arunspeaks/Finguide-AI)** *(Angular · Python ML · Prisma ORM)*
 Developed a full-featured budgeting platform combining income/expense tracking with AI-based financial forecasting. Designed secure, JWT-authenticated REST APIs for safe client-server communication, integrated machine learning models to generate personalized spending predictions, and built an interactive Angular dashboard with dynamic charts and goal-tracking features for users to visualize their financial health.
-
 Improved expense forecasting accuracy by 20% through iterative model tuning and feature refinement. The work behind this project was strong enough to be published and presented at the 16th IEEE International Conference on Computing, Communication and Networking Technologies (ICCCNT 2025) at IIT Indore — a peer-reviewed validation of its technical depth.
 
 **[E-Commerce Web Application](https://github.com/arunspeaks/Ecomm)** *(Angular · Spring Boot · MySQL)*
 Built a complete full-stack e-commerce system covering the entire shopping flow — product catalog browsing, shopping cart management, and order processing — backed by a secure, JWT-based authentication system to protect user accounts and transactions.
-
 Designed and implemented REST APIs to connect the Angular frontend with the Spring Boot backend, optimized MySQL queries for faster data retrieval at scale, and deployed a fully functional, scalable demo application demonstrating real-world e-commerce architecture.
 
 **[Portfolio Website](https://github.com/arunspeaks/My_portfolio)** *(HTML · CSS · JavaScript)*
@@ -68,11 +64,11 @@ Added functional contact forms and social media links to make networking easy, t
 ---
 
 ### 📜 Certifications
-- Nptel - Java Programming
 - Oracle — Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate *(Issued Aug 2024 · Expires Aug 2026)*
 - AWS — AWS Academy Graduate: AWS Academy Cloud Developing *(Issued Mar 2024)*
 - edX — Machine Learning with Python *(Issued Apr 2024)*
 - IBM — Machine Learning with Python – Level 1 *(Issued Aug 2023)*
+-  Nptel - Java Programming
 
 
 ---
