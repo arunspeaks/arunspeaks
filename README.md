@@ -10,8 +10,10 @@ I'm an Agentic AI-focused Java Full Stack Developer skilled in building LLM-driv
 
 **B.Tech, Information Technology** — Vignan's Lara Institute of Technology and Science *(2021 – 2025)*
 CGPA: 8.2
+
 **Intermediate (MPC)** — Sri Chaitanya Jr Boys College *(2019 – 2021)*
 Marks: 985
+
 **SSC** — Bhashyam High School *(2018 – 2019)*
 GPA: 10
 
@@ -64,7 +66,6 @@ Added functional contact forms and social media links to make networking easy, t
 ---
 
 ### 📜 Certifications
-- Oracle — Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate *(Issued Aug 2024 · Expires Aug 2026)*
 - AWS — AWS Academy Graduate: AWS Academy Cloud Developing *(Issued Mar 2024)*
 - edX — Machine Learning with Python *(Issued Apr 2024)*
 - IBM — Machine Learning with Python – Level 1 *(Issued Aug 2023)*
