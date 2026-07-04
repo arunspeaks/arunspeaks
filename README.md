@@ -10,10 +10,8 @@ I'm an Agentic AI-focused Java Full Stack Developer skilled in building LLM-driv
 
 **B.Tech, Information Technology** — Vignan's Lara Institute of Technology and Science *(2021 – 2025)*
 CGPA: 8.2
-
 **Intermediate (MPC)** — Sri Chaitanya Jr Boys College *(2019 – 2021)*
 Marks: 985
-
 **SSC** — Bhashyam High School *(2018 – 2019)*
 GPA: 10
 
@@ -46,17 +44,14 @@ Engineered predictive analytics models using Python, Pandas, and NumPy, applying
 
 **AI-Driven Financial Insights for Budgeting** *(Angular · Python ML · Prisma ORM)*
 Developed a budgeting platform with income/expense tracking and AI-based financial forecasts, secured with JWT-authenticated REST APIs and an Angular dashboard with charts and goal tracking.
-
 Integrated ML models for personalized predictions, improving expense forecasting accuracy by 20%, and had the work published at IEEE ICCCNT 2025, IIT Indore.
 
 **E-Commerce Web Application** *(Angular · Spring Boot · MySQL)*
 Built a full-stack e-commerce system with product catalog, shopping cart, and order management, backed by secure JWT-based authentication.
-
 Designed REST APIs and optimized MySQL queries to deploy a scalable, production-style demo application.
 
 **Portfolio Website** *(HTML · CSS · JavaScript)*
 Created a responsive personal portfolio to showcase projects, skills, and certifications, optimized for both desktop and mobile.
-
 Added contact forms and social links, and deployed the site live on Vercel.
 
 ---
