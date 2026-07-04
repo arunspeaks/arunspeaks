@@ -44,11 +44,11 @@ Engineered predictive analytics models using Python, Pandas, and NumPy, applying
 
 **[AI-Driven Financial Insights for Budgeting](https://github.com/arunspeaks/Finguide-AI)** *(Angular · Python ML · Prisma ORM)*
 Developed a full-featured budgeting platform combining income/expense tracking with AI-based financial forecasting. Designed secure, JWT-authenticated REST APIs for safe client-server communication, integrated machine learning models to generate personalized spending predictions, and built an interactive Angular dashboard with dynamic charts and goal-tracking features for users to visualize their financial health.
-Improved expense forecasting accuracy by 20% through iterative model tuning and feature refinement. The work behind this project was strong enough to be published and presented at the 16th IEEE International Conference on Computing, Communication and Networking Technologies (ICCCNT 2025) at IIT Indore — a peer-reviewed validation of its technical depth.
+Improved expense forecasting accuracy by 20% through iterative model tuning and feature refinement. The work behind this project was strong enough to be published and presented at the 16th IEEE International Conference on Computing.
 
 **[E-Commerce Web Application](https://github.com/arunspeaks/Ecomm)** *(Angular · Spring Boot · MySQL)*
 Built a complete full-stack e-commerce system covering the entire shopping flow — product catalog browsing, shopping cart management, and order processing — backed by a secure, JWT-based authentication system to protect user accounts and transactions.
-Designed and implemented REST APIs to connect the Angular frontend with the Spring Boot backend, optimized MySQL queries for faster data retrieval at scale, and deployed a fully functional, scalable demo application demonstrating real-world e-commerce architecture.
+Designed and implemented REST APIs to connect the Angular frontend with the Spring Boot backend and deployed a fully functional, scalable demo application demonstrating real-world e-commerce architecture.
 
 **[Portfolio Website](https://github.com/arunspeaks/My_portfolio)** *(HTML · CSS · JavaScript)*
 Created a responsive personal portfolio site to showcase projects, technical skills, and certifications in a clean, professional format, carefully optimized for both desktop and mobile viewing experiences.
