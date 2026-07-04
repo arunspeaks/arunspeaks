@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Arun Kumar 👋</h2>
+<h2 align="left">Hi, I'm Arun Telidevulapalli👋</h2>
 
 ### 🙋 About Me
 
